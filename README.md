@@ -13,11 +13,6 @@ A clean and modern finance dashboard built using React, TypeScript, and Tailwind
 
 ## 🚀 Key Features
 
-### 💎 Supreme Branding & UI
-- **Supreme Green Palette**: Standardized brand identity using `#3BBD92` for all positive trends and success indicators.
-- **Redesigned Logo**: Modern, stylized "F" icon on a solid black background for a premium, mobile-native aesthetic.
-- **Micro-Animations**: Shimmering skeleton loaders and smooth transitions between all views.
-
 ### 📊 Financial Intelligence (Insights)
 - **Top Category Hero**: A focal card on the Insights page that identifies your highest spending category and compares it to last month's data.
 - **Monthly Delta Analysis**: Real-time spending comparison showing exactly how much you **Saved** or **Spent More** relative to the previous month.
@@ -59,3 +54,5 @@ A clean and modern finance dashboard built using React, TypeScript, and Tailwind
    ```
 
 ---
+
+Made in india
