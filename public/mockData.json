@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "DLPwTGyJJ",
+    "date": "2026-04-02",
+    "amount": 14484,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "payment transaction at Botsford, Koepp and Hartmann using card ending with ****0849 for NPR 281.48 in account ***5304."
+  },
+  {
+    "id": "R1fzNVGS5",
+    "date": "2026-04-02",
+    "amount": 11059,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "invoice processed at Hickle, Okuneva and Prosacco for ETB 580.69, using card ending ****6094. Account: ***9585."
+  },
+  {
+    "id": "6IDFJC2KJ",
+    "date": "2026-04-01",
+    "amount": 14922,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A payment for BOB 763.63 was made at McLaughlin, Wuckert and Rowe via card ending ****3431 on account ***1152."
+  },
+  {
+    "id": "wzeshNSpD",
+    "date": "2026-03-31",
+    "amount": 12583,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "payment confirmed at Reichert - Parker for MGA 60.60, card ending in ****5332 associated with account ***1881."
+  },
+  {
+    "id": "0fTO7PGgs",
+    "date": "2026-03-31",
+    "amount": 7720,
+    "category": "Transport",
+    "type": "expense",
+    "description": "deposit at Cummings Inc with a card ending in ****6081 for CLP 507.37 from account ***4798."
+  },
+  {
+    "id": "6UTWcws0C",
+    "date": "2026-03-30",
+    "amount": 5133,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "invoice confirmed at Kuhn LLC for BYN 293.73, card ending in ****9232 associated with account ***8762."
+  },
+  {
+    "id": "uPZ9i2Nwo",
+    "date": "2026-03-30",
+    "amount": 5343,
+    "category": "Transport",
+    "type": "expense",
+    "description": "invoice processed at Rolfson, Morar and Denesik for YER 583.47, using card ending ****4442. Account: ***9448."
+  },
+  {
+    "id": "3RJq4V26S",
+    "date": "2026-03-30",
+    "amount": 49492,
+    "category": "Investments",
+    "type": "income",
+    "description": "withdrawal of VND 22.27 at Ernser Group charged to account ending in 9044 using card ending in ****6278."
+  },
+  {
+    "id": "udvkgZN0u",
+    "date": "2026-03-29",
+    "amount": 6332,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "deposit at Krajcik and Sons with a card ending in ****2312 for IRR 920.30 from account ***1755."
+  },
+  {
+    "id": "yjvAFZ3hs",
+    "date": "2026-03-29",
+    "amount": 5196,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment confirmed at Weissnat, Lemke and Baumbach for MMK 304.90, card ending in ****3399 associated with account ***5726."
+  },
+  {
+    "id": "fyORpZQRN",
+    "date": "2026-03-26",
+    "amount": 2468,
+    "category": "Rent",
+    "type": "expense",
+    "description": "withdrawal processed at Mills, Runolfsdottir-Klocko and Howell for KGS 769.56, using card ending ****1094. Account: ***0966."
+  },
+  {
+    "id": "4T3VmirLN",
+    "date": "2026-03-26",
+    "amount": 2781,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "deposit of KPW 260.91 at Stanton LLC charged to account ending in 9529 using card ending in ****7249."
+  },
+  {
+    "id": "Jo5uj79tj",
+    "date": "2026-03-25",
+    "amount": 12376,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A invoice of MMK 706.83 occurred at Morar, Greenfelder and Hayes using a card ending in ****5783 for account ***9561."
+  },
+  {
+    "id": "wjXHRzkEB",
+    "date": "2026-03-24",
+    "amount": 12343,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A payment for NGN 730.53 was made at Lind - Fritsch via card ending ****0384 on account ***7375."
+  },
+  {
+    "id": "etMzlIxsd",
+    "date": "2026-03-23",
+    "amount": 9212,
+    "category": "Rent",
+    "type": "expense",
+    "description": "payment of NOK 508.83 at Stracke, Rodriguez and Hagenes charged to account ending in 3820 using card ending in ****3996."
+  },
+  {
+    "id": "2Ve6Hn1RW",
+    "date": "2026-03-23",
+    "amount": 9199,
+    "category": "Transport",
+    "type": "expense",
+    "description": "A payment for UZS 71.28 was made at Lakin, Runolfsson and Bashirian via card ending ****2403 on account ***7757."
+  },
+  {
+    "id": "SoZ8ZryxL",
+    "date": "2026-03-23",
+    "amount": 13405,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Payment of XPF 700.99 for payment at Bechtelar-Hessel and Sons, processed with card ending ****3914 linked to account ***3327."
+  },
+  {
+    "id": "EFWP6IlMd",
+    "date": "2026-03-22",
+    "amount": 97461,
+    "category": "Salary",
+    "type": "income",
+    "description": "payment of ETB 288.40 at Abbott Inc charged to account ending in 0246 using card ending in ****3809."
+  },
+  {
+    "id": "ma5A5IFxV",
+    "date": "2026-03-22",
+    "amount": 829,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "deposit transaction at King - Von-Ferry using card ending with ****5666 for AUD 630.95 in account ***9004."
+  },
+  {
+    "id": "tDj9oi6mE",
+    "date": "2026-03-22",
+    "amount": 13205,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "deposit confirmed at Reynolds - Cremin for ILS 946.35, card ending in ****6214 associated with account ***1241."
+  },
+  {
+    "id": "gXifI86iT",
+    "date": "2026-03-22",
+    "amount": 8130,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Payment of BYN 854.72 for invoice at McClure and Sons, processed with card ending ****3857 linked to account ***5202."
+  },
+  {
+    "id": "bNe9RucHU",
+    "date": "2026-03-21",
+    "amount": 60327,
+    "category": "Freelance",
+    "type": "income",
+    "description": "deposit of IQD 866.99 at Donnelly-Mueller and Sons charged to account ending in 4380 using card ending in ****6585."
+  },
+  {
+    "id": "r8XksRhse",
+    "date": "2026-03-20",
+    "amount": 11083,
+    "category": "Transport",
+    "type": "expense",
+    "description": "You made a invoice of SRD 427.35 at McDermott - Will using card ending in ****6979 from account ***6834."
+  },
+  {
+    "id": "SMleWdqAe",
+    "date": "2026-03-19",
+    "amount": 3810,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "withdrawal confirmed at Ernser, Grant and Mohr for SDG 212.82, card ending in ****8495 associated with account ***5323."
+  },
+  {
+    "id": "RVKStwyTq",
+    "date": "2026-03-16",
+    "amount": 108079,
+    "category": "Freelance",
+    "type": "income",
+    "description": "payment processed at Kunde - Oberbrunner for MDL 481.37, using card ending ****5438. Account: ***5292."
+  },
+  {
+    "id": "vS0KKYpmB",
+    "date": "2026-03-15",
+    "amount": 5953,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Payment of CZK 661.57 for deposit at Anderson and Sons, processed with card ending ****6683 linked to account ***3096."
+  },
+  {
+    "id": "0dgjiQJ8s",
+    "date": "2026-03-15",
+    "amount": 7501,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "Your withdrawal of BDT 386.14 at Herman Inc was successful. Charged via card ****9577 to account ***5373."
+  },
+  {
+    "id": "cWyNw6qH2",
+    "date": "2026-03-15",
+    "amount": 6039,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A deposit for SOS 120.78 was made at Bogisich - Stroman via card ending ****8046 on account ***4042."
+  },
+  {
+    "id": "NTqKkAAt1",
+    "date": "2026-03-14",
+    "amount": 13532,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment processed at Muller - Gulgowski for SGD 533.30, using card ending ****5658. Account: ***2482."
+  },
+  {
+    "id": "dGZCVOvRj",
+    "date": "2026-03-13",
+    "amount": 4503,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "Transaction alert: withdrawal at Quigley and Sons using card ending ****4454 for an amount of OMR 751.92 on account ***7042."
+  },
+  {
+    "id": "n4CUYjzwY",
+    "date": "2026-03-13",
+    "amount": 6176,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A payment of LYD 551.95 occurred at Gerlach, Watsica and White using a card ending in ****1118 for account ***5366."
+  },
+  {
+    "id": "QuFlNyxIx",
+    "date": "2026-03-12",
+    "amount": 110457,
+    "category": "Investments",
+    "type": "income",
+    "description": "withdrawal of SBD 656.69 at Kuvalis - Bartell charged to account ending in 5285 using card ending in ****2567."
+  },
+  {
+    "id": "66K493AF1",
+    "date": "2026-03-12",
+    "amount": 3138,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "withdrawal transaction at Huels - Mann-Franey using card ending with ****2708 for MOP 548.24 in account ***2401."
+  },
+  {
+    "id": "oLd8sfOKR",
+    "date": "2026-03-10",
+    "amount": 114117,
+    "category": "Salary",
+    "type": "income",
+    "description": "withdrawal processed at Watsica-Goyette - Prohaska for HNL 444.89, using card ending ****2380. Account: ***1082."
+  },
+  {
+    "id": "aN3wr93Sr",
+    "date": "2026-03-10",
+    "amount": 1034,
+    "category": "Rent",
+    "type": "expense",
+    "description": "withdrawal at Sawayn, Ullrich and Mosciski with a card ending in ****6262 for PYG 44.28 from account ***4232."
+  },
+  {
+    "id": "VGB23FG8T",
+    "date": "2026-03-10",
+    "amount": 11383,
+    "category": "Transport",
+    "type": "expense",
+    "description": "deposit processed at Swift - Windler-Hilll for AMD 587.33, using card ending ****2315. Account: ***3677."
+  },
+  {
+    "id": "DlTmKH6z9",
+    "date": "2026-03-09",
+    "amount": 3540,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Your invoice of KGS 128.64 at Robel, Hermiston and Green was successful. Charged via card ****0622 to account ***8462."
+  },
+  {
+    "id": "NQfLB1RX9",
+    "date": "2026-03-08",
+    "amount": 10820,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A invoice of DKK 198.36 occurred at Romaguera - Lowe using a card ending in ****4230 for account ***8541."
+  },
+  {
+    "id": "3Y27dopFC",
+    "date": "2026-03-08",
+    "amount": 41913,
+    "category": "Freelance",
+    "type": "income",
+    "description": "You made a deposit of NZD 911.66 at Ortiz, Boyle and Kertzmann using card ending in ****9528 from account ***3503."
+  },
+  {
+    "id": "ZzNmK9JFu",
+    "date": "2026-03-08",
+    "amount": 10002,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "invoice processed at Schaefer LLC for DZD 185.43, using card ending ****2002. Account: ***0130."
+  },
+  {
+    "id": "INECNOC4y",
+    "date": "2026-03-07",
+    "amount": 9105,
+    "category": "Rent",
+    "type": "expense",
+    "description": "invoice processed at Senger Inc for RSD 377.23, using card ending ****4287. Account: ***1876."
+  },
+  {
+    "id": "Fkb3oxOMJ",
+    "date": "2026-03-07",
+    "amount": 6486,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "A withdrawal for CVE 32.41 was made at Swaniawski Group via card ending ****5453 on account ***7621."
+  },
+  {
+    "id": "2hjrPh4LU",
+    "date": "2026-03-06",
+    "amount": 5607,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Transaction alert: withdrawal at Medhurst, Fadel and Koelpin using card ending ****7153 for an amount of LKR 638.82 on account ***8784."
+  },
+  {
+    "id": "YvTG0MUO6",
+    "date": "2026-03-06",
+    "amount": 12646,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "You made a deposit of SOS 850.42 at Schmeler-Dietrich - Kling using card ending in ****2545 from account ***4485."
+  },
+  {
+    "id": "f63TV4rm1",
+    "date": "2026-03-06",
+    "amount": 10650,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "deposit of CLP 603.27 at Herzog - Douglas charged to account ending in 2007 using card ending in ****5417."
+  },
+  {
+    "id": "Qfk9l3dTt",
+    "date": "2026-03-06",
+    "amount": 67756,
+    "category": "Salary",
+    "type": "income",
+    "description": "payment confirmed at Greenholt-Treutel LLC for AUD 820.78, card ending in ****2327 associated with account ***6184."
+  },
+  {
+    "id": "YRrXz1T4U",
+    "date": "2026-03-04",
+    "amount": 3945,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "You made a withdrawal of BIF 592.45 at Veum - O'Keefe using card ending in ****9917 from account ***7939."
+  },
+  {
+    "id": "BDj42ZPZa",
+    "date": "2026-03-03",
+    "amount": 13759,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "payment confirmed at Botsford, Daniel and Schaden for HNL 15.28, card ending in ****3035 associated with account ***6382."
+  },
+  {
+    "id": "sUEFulaW8",
+    "date": "2026-02-28",
+    "amount": 13336,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Your payment of KZT 561.80 at Frami LLC was successful. Charged via card ****8085 to account ***5998."
+  },
+  {
+    "id": "OESbKJRy1",
+    "date": "2026-02-28",
+    "amount": 4386,
+    "category": "Rent",
+    "type": "expense",
+    "description": "A deposit of KWD 991.23 occurred at Larson, Hegmann and Moore using a card ending in ****2128 for account ***8036."
+  },
+  {
+    "id": "16tPO9bBJ",
+    "date": "2026-02-28",
+    "amount": 79004,
+    "category": "Investments",
+    "type": "income",
+    "description": "invoice of INR 526.12 at Kassulke - Reichert charged to account ending in 8160 using card ending in ****6434."
+  },
+  {
+    "id": "zQ3QUmcSj",
+    "date": "2026-02-27",
+    "amount": 102043,
+    "category": "Salary",
+    "type": "income",
+    "description": "Transaction alert: invoice at Grimes-Leuschke, Daugherty and Lebsack using card ending ****0517 for an amount of AZN 806.77 on account ***1591."
+  },
+  {
+    "id": "2yHIdNYB9",
+    "date": "2026-02-26",
+    "amount": 96264,
+    "category": "Salary",
+    "type": "income",
+    "description": "Payment of AFN 145.37 for invoice at Roberts LLC, processed with card ending ****3329 linked to account ***9346."
+  },
+  {
+    "id": "lK1MSjZnn",
+    "date": "2026-02-25",
+    "amount": 14321,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "You made a payment of ZWL 343.38 at Aufderhar - Stamm using card ending in ****6280 from account ***2414."
+  },
+  {
+    "id": "pu4iL9hn6",
+    "date": "2026-02-25",
+    "amount": 14805,
+    "category": "Transport",
+    "type": "expense",
+    "description": "payment transaction at Swift - Mann using card ending with ****4895 for BWP 940.17 in account ***4634."
+  },
+  {
+    "id": "cyjGZS9Go",
+    "date": "2026-02-25",
+    "amount": 14215,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "You made a payment of AOA 965.93 at Hickle - Kilback using card ending in ****1052 from account ***6839."
+  },
+  {
+    "id": "AJDjEeeh4",
+    "date": "2026-02-25",
+    "amount": 270,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "Your withdrawal of OMR 491.37 at Bartoletti - Altenwerth was successful. Charged via card ****4503 to account ***7036."
+  },
+  {
+    "id": "OC5KBnSvA",
+    "date": "2026-02-24",
+    "amount": 9256,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A payment for XAF 588.28 was made at Boyer-Douglas, Cummerata and Mohr via card ending ****8480 on account ***0147."
+  },
+  {
+    "id": "x0QiJs8y3",
+    "date": "2026-02-24",
+    "amount": 7063,
+    "category": "Rent",
+    "type": "expense",
+    "description": "payment at Abernathy, Boyle and Wiegand with a card ending in ****3263 for NAD 140.99 from account ***1349."
+  },
+  {
+    "id": "adCaqqajr",
+    "date": "2026-02-23",
+    "amount": 1704,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "withdrawal of SRD 643.89 at Aufderhar Group charged to account ending in 6113 using card ending in ****2326."
+  },
+  {
+    "id": "XUF0URy0w",
+    "date": "2026-02-22",
+    "amount": 13671,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "A withdrawal of EGP 590.10 occurred at Nitzsche - Crist using a card ending in ****8602 for account ***7331."
+  },
+  {
+    "id": "jLlGdaSwj",
+    "date": "2026-02-22",
+    "amount": 6039,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "deposit confirmed at Bahringer and Sons for MVR 87.47, card ending in ****3594 associated with account ***8264."
+  },
+  {
+    "id": "os30SIQ5B",
+    "date": "2026-02-20",
+    "amount": 2718,
+    "category": "Transport",
+    "type": "expense",
+    "description": "deposit of KWD 978.04 at Crooks, Ernser and Moore charged to account ending in 3095 using card ending in ****2889."
+  },
+  {
+    "id": "esykxVWzs",
+    "date": "2026-02-20",
+    "amount": 10333,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Payment of SZL 657.06 for withdrawal at Ondricka Inc, processed with card ending ****5865 linked to account ***0883."
+  },
+  {
+    "id": "1xOZXwtMc",
+    "date": "2026-02-19",
+    "amount": 12003,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Payment of SHP 998.87 for invoice at O'Conner Inc, processed with card ending ****4522 linked to account ***2112."
+  },
+  {
+    "id": "TvcSnIMcS",
+    "date": "2026-02-19",
+    "amount": 5445,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "deposit of MZN 114.35 at Tillman - Windler charged to account ending in 8272 using card ending in ****1982."
+  },
+  {
+    "id": "bpW1OxYKs",
+    "date": "2026-02-19",
+    "amount": 5413,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A deposit for SOS 844.91 was made at Wolf Inc via card ending ****4697 on account ***2928."
+  },
+  {
+    "id": "UbtFfc9H0",
+    "date": "2026-02-19",
+    "amount": 12679,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Your deposit of EGP 784.86 at Corkery and Sons was successful. Charged via card ****6523 to account ***8029."
+  },
+  {
+    "id": "m9lUdraGT",
+    "date": "2026-02-18",
+    "amount": 4874,
+    "category": "Rent",
+    "type": "expense",
+    "description": "payment transaction at Runolfsson - Padberg using card ending with ****3718 for IQD 912.53 in account ***5661."
+  },
+  {
+    "id": "peWM6bSUD",
+    "date": "2026-02-18",
+    "amount": 13798,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "withdrawal confirmed at Gusikowski - Spinka for HKD 483.91, card ending in ****3969 associated with account ***8632."
+  },
+  {
+    "id": "pmWLpljWq",
+    "date": "2026-02-18",
+    "amount": 13790,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment at Heaney-Jast and Sons with a card ending in ****3702 for NGN 746.24 from account ***0421."
+  },
+  {
+    "id": "tsbDRxW8s",
+    "date": "2026-02-18",
+    "amount": 8672,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "payment processed at Hackett Group for SZL 208.71, using card ending ****3121. Account: ***6586."
+  },
+  {
+    "id": "CJD4jqi3Q",
+    "date": "2026-02-16",
+    "amount": 1284,
+    "category": "Transport",
+    "type": "expense",
+    "description": "A deposit of PAB 569.99 occurred at Monahan - Hyatt using a card ending in ****5840 for account ***1037."
+  },
+  {
+    "id": "LjxjcUsP2",
+    "date": "2026-02-14",
+    "amount": 7576,
+    "category": "Rent",
+    "type": "expense",
+    "description": "You made a deposit of BZD 400.30 at Swift, Macejkovic and Rice using card ending in ****2837 from account ***2568."
+  },
+  {
+    "id": "5dkMQajO2",
+    "date": "2026-02-14",
+    "amount": 10384,
+    "category": "Transport",
+    "type": "expense",
+    "description": "invoice of MGA 483.61 at Schmidt and Sons charged to account ending in 4565 using card ending in ****5146."
+  },
+  {
+    "id": "VZQCwbljl",
+    "date": "2026-02-13",
+    "amount": 4393,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "A invoice of TZS 603.86 occurred at Kulas, Fay and Stracke using a card ending in ****7105 for account ***1182."
+  },
+  {
+    "id": "Eabm7hFFS",
+    "date": "2026-02-13",
+    "amount": 9703,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "payment at Swaniawski Group with a card ending in ****9944 for OMR 382.53 from account ***5172."
+  },
+  {
+    "id": "v6DwoTPhH",
+    "date": "2026-02-12",
+    "amount": 1391,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "You made a payment of OMR 275.12 at Goodwin-Roberts, Bode and Reinger using card ending in ****9187 from account ***7433."
+  },
+  {
+    "id": "PNOeMbEEp",
+    "date": "2026-02-12",
+    "amount": 968,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "payment transaction at Langosh Inc using card ending with ****3989 for BHD 922.64 in account ***3629."
+  },
+  {
+    "id": "GPePXnsn2",
+    "date": "2026-02-11",
+    "amount": 11705,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "A invoice for SSP 107.50 was made at Schuppe and Sons via card ending ****6850 on account ***2075."
+  },
+  {
+    "id": "zMaRsyeuF",
+    "date": "2026-02-11",
+    "amount": 81565,
+    "category": "Salary",
+    "type": "income",
+    "description": "invoice transaction at Osinski - Crooks using card ending with ****3358 for VUV 830.55 in account ***4256."
+  },
+  {
+    "id": "Ne5uPdM94",
+    "date": "2026-02-11",
+    "amount": 6666,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Transaction alert: withdrawal at Bergstrom Inc using card ending ****9604 for an amount of TJS 970.02 on account ***9696."
+  },
+  {
+    "id": "F7tqKxd6B",
+    "date": "2026-02-10",
+    "amount": 4103,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "withdrawal of TZS 462.26 at Hauck - Purdy charged to account ending in 9832 using card ending in ****8446."
+  },
+  {
+    "id": "nrrv9yDt4",
+    "date": "2026-02-09",
+    "amount": 6263,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "invoice at Haag and Sons with a card ending in ****0661 for CVE 261.71 from account ***6415."
+  },
+  {
+    "id": "rsyhqH3Fg",
+    "date": "2026-02-09",
+    "amount": 13806,
+    "category": "Transport",
+    "type": "expense",
+    "description": "Transaction alert: payment at Reilly - Pfeffer using card ending ****0918 for an amount of BOB 573.19 on account ***4050."
+  },
+  {
+    "id": "ITetQgpYE",
+    "date": "2026-02-09",
+    "amount": 10583,
+    "category": "Rent",
+    "type": "expense",
+    "description": "withdrawal processed at Hudson - Kutch for JOD 151.60, using card ending ****4180. Account: ***1846."
+  },
+  {
+    "id": "O26wTdawx",
+    "date": "2026-02-08",
+    "amount": 1855,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "You made a invoice of BMD 137.61 at Padberg and Sons using card ending in ****8177 from account ***2127."
+  },
+  {
+    "id": "8fu38JADf",
+    "date": "2026-02-08",
+    "amount": 5466,
+    "category": "Transport",
+    "type": "expense",
+    "description": "A deposit of CNY 18.70 occurred at Funk Inc using a card ending in ****9787 for account ***9800."
+  },
+  {
+    "id": "kh3MOQHU1",
+    "date": "2026-02-07",
+    "amount": 11632,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Payment of SHP 265.98 for invoice at Feil, Cremin and Runolfsson, processed with card ending ****0686 linked to account ***9340."
+  },
+  {
+    "id": "h0Q2PlQUZ",
+    "date": "2026-02-07",
+    "amount": 3151,
+    "category": "Transport",
+    "type": "expense",
+    "description": "Your invoice of MRU 126.50 at Hauck - Funk was successful. Charged via card ****6971 to account ***3106."
+  },
+  {
+    "id": "kiuNT5LKL",
+    "date": "2026-02-07",
+    "amount": 5315,
+    "category": "Rent",
+    "type": "expense",
+    "description": "withdrawal transaction at Reinger, Schuppe and Padberg using card ending with ****0092 for PKR 425.91 in account ***8101."
+  },
+  {
+    "id": "woosfFGv3",
+    "date": "2026-02-07",
+    "amount": 14211,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "Your withdrawal of COP 70.36 at Mayert, Bergstrom and Johnson was successful. Charged via card ****7892 to account ***7085."
+  },
+  {
+    "id": "8Sv7guWfM",
+    "date": "2026-02-06",
+    "amount": 76578,
+    "category": "Investments",
+    "type": "income",
+    "description": "Payment of BBD 28.08 for invoice at Greenfelder Group, processed with card ending ****4733 linked to account ***5830."
+  },
+  {
+    "id": "bb0t7M580",
+    "date": "2026-02-06",
+    "amount": 14055,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment at Quigley-Turner, Bogisich and Beer with a card ending in ****6308 for HUF 164.97 from account ***9620."
+  },
+  {
+    "id": "SFyBwu9fy",
+    "date": "2026-02-06",
+    "amount": 2648,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment confirmed at Block - Connelly for LRD 48.41, card ending in ****3315 associated with account ***8767."
+  },
+  {
+    "id": "uL9JouGcy",
+    "date": "2026-02-04",
+    "amount": 3415,
+    "category": "Rent",
+    "type": "expense",
+    "description": "You made a invoice of LSL 429.02 at Dickens - White using card ending in ****3649 from account ***1516."
+  },
+  {
+    "id": "iDVoFnxUk",
+    "date": "2026-02-03",
+    "amount": 6326,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "withdrawal processed at Osinski and Sons for BYN 977.29, using card ending ****7015. Account: ***0673."
+  },
+  {
+    "id": "qGOAuerU6",
+    "date": "2026-02-03",
+    "amount": 2564,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "deposit of SLE 739.36 at Kautzer - Lubowitz charged to account ending in 1943 using card ending in ****7410."
+  },
+  {
+    "id": "YZUZGDTRx",
+    "date": "2026-02-03",
+    "amount": 5457,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "You made a withdrawal of RON 106.17 at Wintheiser - Wuckert using card ending in ****7289 from account ***8238."
+  },
+  {
+    "id": "FszdFlsfS",
+    "date": "2026-02-02",
+    "amount": 10322,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "Payment of NPR 145.43 for invoice at Heller LLC, processed with card ending ****9109 linked to account ***1544."
+  },
+  {
+    "id": "PfouZ2iMo",
+    "date": "2026-02-02",
+    "amount": 5657,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A deposit for TZS 284.59 was made at Lesch LLC via card ending ****9914 on account ***2941."
+  },
+  {
+    "id": "MAxPCzlyf",
+    "date": "2026-02-02",
+    "amount": 1253,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "Your withdrawal of NZD 861.61 at Sawayn - Bogan was successful. Charged via card ****7885 to account ***5755."
+  },
+  {
+    "id": "gBoYluSTT",
+    "date": "2026-02-02",
+    "amount": 47102,
+    "category": "Salary",
+    "type": "income",
+    "description": "You made a payment of DKK 811.21 at O'Conner - Kuhic using card ending in ****2918 from account ***6725."
+  },
+  {
+    "id": "y4I5v3CI0",
+    "date": "2026-02-01",
+    "amount": 12608,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment processed at Gleichner - Senger for RWF 887.02, using card ending ****7417. Account: ***5191."
+  },
+  {
+    "id": "5c5o15ANM",
+    "date": "2026-02-01",
+    "amount": 12481,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Payment of HNL 857.89 for payment at D'Amore, Wilkinson and Baumbach, processed with card ending ****2487 linked to account ***5777."
+  },
+  {
+    "id": "CHG5FlpXP",
+    "date": "2026-02-01",
+    "amount": 10337,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "deposit transaction at Larkin, Howe and Klocko using card ending with ****5641 for PAB 731.49 in account ***1727."
+  },
+  {
+    "id": "KGFjoQXPL",
+    "date": "2026-01-31",
+    "amount": 10773,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Payment of MDL 721.88 for invoice at Schumm-Haley, Gleichner-Bernier and Littel, processed with card ending ****0359 linked to account ***2011."
+  },
+  {
+    "id": "XxkR8IfWO",
+    "date": "2026-01-31",
+    "amount": 12169,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "Payment of TND 593.62 for invoice at Watsica - Abshire, processed with card ending ****6509 linked to account ***0099."
+  },
+  {
+    "id": "3b6XFBWYc",
+    "date": "2026-01-31",
+    "amount": 13212,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "payment at Mayer Inc with a card ending in ****6342 for BTN 32.15 from account ***2905."
+  },
+  {
+    "id": "e0WKZNbne",
+    "date": "2026-01-31",
+    "amount": 8894,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A invoice for SDG 104.54 was made at Hagenes, Ward and Hettinger via card ending ****5896 on account ***1579."
+  },
+  {
+    "id": "Y8yiiF0ZO",
+    "date": "2026-01-29",
+    "amount": 114733,
+    "category": "Freelance",
+    "type": "income",
+    "description": "withdrawal at Bailey, Klocko and Fay-Keeling with a card ending in ****2576 for PYG 319.55 from account ***3777."
+  },
+  {
+    "id": "dArGrgFOM",
+    "date": "2026-01-29",
+    "amount": 6828,
+    "category": "Transport",
+    "type": "expense",
+    "description": "payment of MZN 216.67 at Gutkowski LLC charged to account ending in 8677 using card ending in ****6894."
+  },
+  {
+    "id": "iau1QLOz3",
+    "date": "2026-01-29",
+    "amount": 123,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "A payment of INR 862.47 occurred at Pagac, Armstrong and Stehr using a card ending in ****7826 for account ***9877."
+  },
+  {
+    "id": "SdKmysHl5",
+    "date": "2026-01-29",
+    "amount": 57919,
+    "category": "Investments",
+    "type": "income",
+    "description": "withdrawal confirmed at Koss - Champlin for TND 99.04, card ending in ****9162 associated with account ***2125."
+  },
+  {
+    "id": "rJLpDecvN",
+    "date": "2026-01-28",
+    "amount": 8965,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "A payment of DJF 235.76 occurred at Jast and Sons using a card ending in ****1577 for account ***2113."
+  },
+  {
+    "id": "8urwW8uFA",
+    "date": "2026-01-28",
+    "amount": 94235,
+    "category": "Salary",
+    "type": "income",
+    "description": "Transaction alert: withdrawal at Weimann - Hessel using card ending ****6548 for an amount of COP 228.94 on account ***6060."
+  },
+  {
+    "id": "wibuZu3l9",
+    "date": "2026-01-27",
+    "amount": 8204,
+    "category": "Transport",
+    "type": "expense",
+    "description": "deposit confirmed at Morissette - West for HUF 701.89, card ending in ****0247 associated with account ***8874."
+  },
+  {
+    "id": "rwQ2SjhLd",
+    "date": "2026-01-27",
+    "amount": 9106,
+    "category": "Rent",
+    "type": "expense",
+    "description": "payment transaction at Fritsch, Howell and Labadie using card ending with ****5800 for JMD 39.67 in account ***6471."
+  },
+  {
+    "id": "1YQDjw49l",
+    "date": "2026-01-27",
+    "amount": 9848,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "payment of AMD 87.04 at Batz, Zulauf and Cassin charged to account ending in 9175 using card ending in ****5367."
+  },
+  {
+    "id": "5ny3iKCE1",
+    "date": "2026-01-26",
+    "amount": 7036,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A deposit for MYR 207.33 was made at Romaguera, Mosciski and Willms via card ending ****2697 on account ***4021."
+  },
+  {
+    "id": "evoyx5O4J",
+    "date": "2026-01-26",
+    "amount": 1526,
+    "category": "Rent",
+    "type": "expense",
+    "description": "payment confirmed at Steuber Group for GBP 889.75, card ending in ****4550 associated with account ***3150."
+  },
+  {
+    "id": "ZQazej9C2",
+    "date": "2026-01-26",
+    "amount": 14688,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "Your invoice of XAF 171.43 at Fritsch LLC was successful. Charged via card ****3221 to account ***4767."
+  },
+  {
+    "id": "ahSrddbUW",
+    "date": "2026-01-25",
+    "amount": 5614,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "withdrawal at McKenzie - Schmeler with a card ending in ****3849 for ALL 274.54 from account ***0444."
+  },
+  {
+    "id": "SmgeNSqap",
+    "date": "2026-01-23",
+    "amount": 14228,
+    "category": "Rent",
+    "type": "expense",
+    "description": "You made a payment of GBP 852.87 at Kilback - Smith using card ending in ****3838 from account ***5775."
+  },
+  {
+    "id": "edL2Onlwl",
+    "date": "2026-01-23",
+    "amount": 4813,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "withdrawal confirmed at Walker - Roberts for VUV 182.63, card ending in ****8621 associated with account ***9252."
+  },
+  {
+    "id": "xXpYv9irL",
+    "date": "2026-01-22",
+    "amount": 111194,
+    "category": "Salary",
+    "type": "income",
+    "description": "invoice confirmed at Fahey - Dietrich for NGN 898.07, card ending in ****6385 associated with account ***3755."
+  },
+  {
+    "id": "4nvu3M4kt",
+    "date": "2026-01-22",
+    "amount": 745,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A deposit for SRD 487.50 was made at Dicki - Auer via card ending ****9924 on account ***0987."
+  },
+  {
+    "id": "VA6Jm36AG",
+    "date": "2026-01-22",
+    "amount": 12614,
+    "category": "Rent",
+    "type": "expense",
+    "description": "You made a withdrawal of INR 485.63 at Monahan, Price and Heidenreich-Ziemann using card ending in ****7454 from account ***2346."
+  },
+  {
+    "id": "jvJrKX3Pa",
+    "date": "2026-01-21",
+    "amount": 12611,
+    "category": "Transport",
+    "type": "expense",
+    "description": "withdrawal of NZD 671.56 at Bernier Inc charged to account ending in 8763 using card ending in ****8256."
+  },
+  {
+    "id": "Vq6qDeamb",
+    "date": "2026-01-20",
+    "amount": 3080,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "You made a invoice of IDR 866.13 at Johns, Corwin and Quigley using card ending in ****8837 from account ***6789."
+  },
+  {
+    "id": "px9Y4H8NA",
+    "date": "2026-01-20",
+    "amount": 1074,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment confirmed at Morissette Group for ARS 149.19, card ending in ****1028 associated with account ***4814."
+  },
+  {
+    "id": "Bi2sCcLs5",
+    "date": "2026-01-19",
+    "amount": 5226,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Transaction alert: invoice at Adams Inc using card ending ****6992 for an amount of UAH 586.58 on account ***2682."
+  },
+  {
+    "id": "OS3heZKZi",
+    "date": "2026-01-18",
+    "amount": 114967,
+    "category": "Salary",
+    "type": "income",
+    "description": "Transaction alert: payment at Spinka-Hickle, Baumbach and Baumbach using card ending ****9948 for an amount of MGA 18.65 on account ***0381."
+  },
+  {
+    "id": "qBv8o85Mk",
+    "date": "2026-01-17",
+    "amount": 56737,
+    "category": "Freelance",
+    "type": "income",
+    "description": "payment at McKenzie - Krajcik with a card ending in ****6612 for YER 91.42 from account ***7207."
+  },
+  {
+    "id": "tnEievd50",
+    "date": "2026-01-17",
+    "amount": 8730,
+    "category": "Transport",
+    "type": "expense",
+    "description": "withdrawal processed at White, Kilback and Blanda for XAF 82.92, using card ending ****7783. Account: ***4716."
+  },
+  {
+    "id": "aflQ8TpT0",
+    "date": "2026-01-17",
+    "amount": 674,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "You made a deposit of TOP 154.19 at Oberbrunner LLC using card ending in ****1120 from account ***4225."
+  },
+  {
+    "id": "2qdbOiec0",
+    "date": "2026-01-16",
+    "amount": 6227,
+    "category": "Transport",
+    "type": "expense",
+    "description": "payment confirmed at Farrell - Lemke for DOP 811.82, card ending in ****4377 associated with account ***5894."
+  },
+  {
+    "id": "SSztQu2n8",
+    "date": "2026-01-13",
+    "amount": 9673,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A payment of LYD 261.44 occurred at Reynolds, Cummerata and Herzog-MacGyver using a card ending in ****1775 for account ***8975."
+  },
+  {
+    "id": "y74fw4huv",
+    "date": "2026-01-13",
+    "amount": 6168,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "invoice transaction at Langosh Group using card ending with ****5969 for UAH 249.06 in account ***7440."
+  },
+  {
+    "id": "ppNsVTFH0",
+    "date": "2026-01-12",
+    "amount": 66860,
+    "category": "Salary",
+    "type": "income",
+    "description": "invoice processed at Legros-Stokes, Zemlak and Beier for ZAR 241.41, using card ending ****4862. Account: ***2440."
+  },
+  {
+    "id": "B0RGnPNx3",
+    "date": "2026-01-12",
+    "amount": 4524,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A withdrawal for PAB 2.55 was made at Johnson LLC via card ending ****8327 on account ***2688."
+  },
+  {
+    "id": "7avI96wKT",
+    "date": "2026-01-12",
+    "amount": 3447,
+    "category": "Transport",
+    "type": "expense",
+    "description": "A payment for SDG 302.53 was made at Adams and Sons via card ending ****7171 on account ***5005."
+  },
+  {
+    "id": "P5ASL1d6S",
+    "date": "2026-01-11",
+    "amount": 2464,
+    "category": "Rent",
+    "type": "expense",
+    "description": "payment transaction at Veum - Mayert using card ending with ****9965 for BWP 728.29 in account ***8917."
+  },
+  {
+    "id": "RDUBr7yZS",
+    "date": "2026-01-11",
+    "amount": 2832,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Payment of TND 909.06 for withdrawal at Turner Inc, processed with card ending ****2725 linked to account ***0291."
+  },
+  {
+    "id": "rJP6ZjY4f",
+    "date": "2026-01-10",
+    "amount": 6722,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Your payment of NIO 806.81 at Wisoky - Trantow was successful. Charged via card ****5811 to account ***8066."
+  },
+  {
+    "id": "xvIslrrG5",
+    "date": "2026-01-09",
+    "amount": 12944,
+    "category": "Transport",
+    "type": "expense",
+    "description": "invoice of SGD 145.73 at Cruickshank, Ryan and Cartwright charged to account ending in 0632 using card ending in ****7754."
+  },
+  {
+    "id": "cMOIqTRm4",
+    "date": "2026-01-08",
+    "amount": 6537,
+    "category": "Transport",
+    "type": "expense",
+    "description": "deposit at Bernier, Purdy and Yundt-DuBuque with a card ending in ****4722 for BIF 878.74 from account ***8276."
+  },
+  {
+    "id": "dmaFtta92",
+    "date": "2026-01-08",
+    "amount": 65417,
+    "category": "Freelance",
+    "type": "income",
+    "description": "Payment of ISK 226.36 for deposit at Lemke - Koss, processed with card ending ****8138 linked to account ***1537."
+  },
+  {
+    "id": "s7jJH4vtY",
+    "date": "2026-01-06",
+    "amount": 6805,
+    "category": "Transport",
+    "type": "expense",
+    "description": "withdrawal of XCD 693.79 at Gulgowski - Baumbach charged to account ending in 6009 using card ending in ****4114."
+  },
+  {
+    "id": "23qrlt2pz",
+    "date": "2026-01-05",
+    "amount": 8868,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Your withdrawal of AED 202.92 at Bogan LLC was successful. Charged via card ****5284 to account ***9099."
+  },
+  {
+    "id": "7yoMZkAfs",
+    "date": "2026-01-04",
+    "amount": 5598,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "deposit transaction at Kihn - Carroll using card ending with ****2072 for MMK 70.40 in account ***9830."
+  },
+  {
+    "id": "ZjAfY5225",
+    "date": "2026-01-03",
+    "amount": 7828,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "invoice of GIP 398.86 at Greenholt LLC charged to account ending in 7717 using card ending in ****2051."
+  },
+  {
+    "id": "SvrmS2dsE",
+    "date": "2026-01-03",
+    "amount": 3836,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "invoice transaction at Abernathy - Stark using card ending with ****0342 for UZS 138.21 in account ***7732."
+  },
+  {
+    "id": "UeWTRGu2P",
+    "date": "2026-01-03",
+    "amount": 2527,
+    "category": "Rent",
+    "type": "expense",
+    "description": "You made a invoice of UGX 471.93 at Goodwin - Franey using card ending in ****3315 from account ***3968."
+  },
+  {
+    "id": "8na36keje",
+    "date": "2026-01-03",
+    "amount": 5330,
+    "category": "Transport",
+    "type": "expense",
+    "description": "Your payment of CHF 551.58 at Roob, Breitenberg and Marquardt was successful. Charged via card ****6714 to account ***6603."
+  },
+  {
+    "id": "BXWbySSZI",
+    "date": "2026-01-02",
+    "amount": 2834,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "Your invoice of BRL 254.69 at Boehm and Sons was successful. Charged via card ****5902 to account ***3661."
+  },
+  {
+    "id": "6gQO7yNZz",
+    "date": "2026-01-02",
+    "amount": 389,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "invoice processed at Prohaska - Becker for NGN 381.68, using card ending ****8144. Account: ***1291."
+  },
+  {
+    "id": "wCirC2HSB",
+    "date": "2026-01-02",
+    "amount": 6272,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A withdrawal for NAD 898.62 was made at Rippin - Hintz via card ending ****0351 on account ***8713."
+  },
+  {
+    "id": "CpF6MIC7J",
+    "date": "2026-01-01",
+    "amount": 14084,
+    "category": "Transport",
+    "type": "expense",
+    "description": "payment confirmed at Grady - Mante for GYD 522.91, card ending in ****8327 associated with account ***7953."
+  },
+  {
+    "id": "9UCBiqzNh",
+    "date": "2026-01-01",
+    "amount": 12686,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "payment at Stroman, Stokes and Sipes with a card ending in ****2188 for IRR 108.49 from account ***6254."
+  },
+  {
+    "id": "mfB1nCPrU",
+    "date": "2025-12-31",
+    "amount": 8508,
+    "category": "Transport",
+    "type": "expense",
+    "description": "withdrawal of TND 8.87 at O'Reilly Group charged to account ending in 4040 using card ending in ****1943."
+  },
+  {
+    "id": "IoY07SYap",
+    "date": "2025-12-30",
+    "amount": 86995,
+    "category": "Investments",
+    "type": "income",
+    "description": "A payment of LYD 334.89 occurred at Shanahan - Larson using a card ending in ****9768 for account ***8929."
+  },
+  {
+    "id": "gPAIhFRrS",
+    "date": "2025-12-30",
+    "amount": 1996,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment at Bednar Group with a card ending in ****1227 for IQD 584.64 from account ***1780."
+  },
+  {
+    "id": "Rc6qA7Bqg",
+    "date": "2025-12-30",
+    "amount": 98755,
+    "category": "Salary",
+    "type": "income",
+    "description": "Your withdrawal of TWD 805.75 at Boyle - Greenfelder was successful. Charged via card ****4524 to account ***6213."
+  },
+  {
+    "id": "jlEBOFe6z",
+    "date": "2025-12-30",
+    "amount": 14655,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "deposit at Olson and Sons with a card ending in ****0184 for MNT 382.35 from account ***6393."
+  },
+  {
+    "id": "PSnlsS6wC",
+    "date": "2025-12-29",
+    "amount": 11543,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "Transaction alert: payment at Christiansen, Jacobson and Brakus using card ending ****3727 for an amount of BGN 812.84 on account ***4563."
+  },
+  {
+    "id": "0UrMGwBCN",
+    "date": "2025-12-29",
+    "amount": 14939,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Your deposit of TZS 9.44 at Gutmann Group was successful. Charged via card ****7142 to account ***0403."
+  },
+  {
+    "id": "RgWwtwuzA",
+    "date": "2025-12-28",
+    "amount": 8533,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment of ERN 802.36 at Koch - Walter charged to account ending in 1076 using card ending in ****8262."
+  },
+  {
+    "id": "HUTsq30bM",
+    "date": "2025-12-28",
+    "amount": 101185,
+    "category": "Investments",
+    "type": "income",
+    "description": "withdrawal at Adams - Kiehn with a card ending in ****8942 for BYN 751.47 from account ***6598."
+  },
+  {
+    "id": "iRGoqdxcA",
+    "date": "2025-12-27",
+    "amount": 6781,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "Payment of AZN 662.33 for invoice at Nolan - Volkman, processed with card ending ****1630 linked to account ***2965."
+  },
+  {
+    "id": "rFdUm8Lcd",
+    "date": "2025-12-26",
+    "amount": 11910,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "You made a payment of LBP 582.87 at Bernier, Kuphal and Hoeger using card ending in ****0530 from account ***6870."
+  },
+  {
+    "id": "T3tdoW1sI",
+    "date": "2025-12-25",
+    "amount": 12280,
+    "category": "Transport",
+    "type": "expense",
+    "description": "invoice at Towne, Leannon and Harber with a card ending in ****2551 for INR 162.42 from account ***7570."
+  },
+  {
+    "id": "K6Kpnz2HW",
+    "date": "2025-12-24",
+    "amount": 7298,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "A payment of MVR 529.68 occurred at Wehner - Rowe using a card ending in ****2726 for account ***4632."
+  },
+  {
+    "id": "crfMDDL8n",
+    "date": "2025-12-23",
+    "amount": 719,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Transaction alert: invoice at Greenholt - Witting using card ending ****0957 for an amount of SAR 752.42 on account ***4465."
+  },
+  {
+    "id": "uqIcFoar0",
+    "date": "2025-12-23",
+    "amount": 6840,
+    "category": "Transport",
+    "type": "expense",
+    "description": "invoice transaction at Olson, Langosh and Schinner-Fisher using card ending with ****8459 for PKR 377.62 in account ***4038."
+  },
+  {
+    "id": "8sw6gMT6p",
+    "date": "2025-12-22",
+    "amount": 2180,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "deposit transaction at Powlowski-Feest - Vandervort using card ending with ****0517 for CAD 0.79 in account ***8102."
+  },
+  {
+    "id": "uTzP6htQK",
+    "date": "2025-12-21",
+    "amount": 985,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "A withdrawal of GEL 223.21 occurred at O'Kon and Sons using a card ending in ****0255 for account ***2955."
+  },
+  {
+    "id": "XXJm3E5XR",
+    "date": "2025-12-18",
+    "amount": 4112,
+    "category": "Transport",
+    "type": "expense",
+    "description": "Payment of YER 556.62 for withdrawal at Hirthe, Lindgren-Herman and Collier, processed with card ending ****5115 linked to account ***1738."
+  },
+  {
+    "id": "41wltF25a",
+    "date": "2025-12-17",
+    "amount": 2815,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Your withdrawal of JOD 989.72 at Padberg LLC was successful. Charged via card ****7447 to account ***5807."
+  },
+  {
+    "id": "kuwotVKR3",
+    "date": "2025-12-17",
+    "amount": 101426,
+    "category": "Investments",
+    "type": "income",
+    "description": "Payment of BGN 164.64 for payment at Treutel LLC, processed with card ending ****3739 linked to account ***8021."
+  },
+  {
+    "id": "20zZbjX6o",
+    "date": "2025-12-15",
+    "amount": 5154,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "deposit processed at O'Kon Group for AFN 586.34, using card ending ****3744. Account: ***5141."
+  },
+  {
+    "id": "QhqMbNzEe",
+    "date": "2025-12-15",
+    "amount": 97994,
+    "category": "Freelance",
+    "type": "income",
+    "description": "Your payment of SSP 235.35 at Jacobi, Gutmann and Rowe was successful. Charged via card ****0008 to account ***4728."
+  },
+  {
+    "id": "YSdQJMLTH",
+    "date": "2025-12-14",
+    "amount": 10550,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "payment at Ziemann, Jacobson and Smitham with a card ending in ****9087 for CAD 533.37 from account ***3243."
+  },
+  {
+    "id": "VODS3Atzb",
+    "date": "2025-12-11",
+    "amount": 13269,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment transaction at Hahn - Herzog using card ending with ****7522 for PAB 449.84 in account ***4168."
+  },
+  {
+    "id": "fnu4u683h",
+    "date": "2025-12-11",
+    "amount": 1169,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "deposit at Kunde - Williamson with a card ending in ****1165 for RON 312.41 from account ***8971."
+  },
+  {
+    "id": "fG4vAwU9M",
+    "date": "2025-12-10",
+    "amount": 3686,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "deposit confirmed at Pfeffer, Rodriguez and Vandervort for BRL 596.92, card ending in ****3701 associated with account ***6069."
+  },
+  {
+    "id": "yqQz3FVfd",
+    "date": "2025-12-09",
+    "amount": 7717,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "Payment of ZMW 14.04 for deposit at Runte - Ritchie, processed with card ending ****6231 linked to account ***1431."
+  },
+  {
+    "id": "Qe0trMy1q",
+    "date": "2025-12-09",
+    "amount": 48551,
+    "category": "Freelance",
+    "type": "income",
+    "description": "withdrawal at Wuckert, Wisozk and Jacobson with a card ending in ****1087 for GHS 686.17 from account ***4141."
+  },
+  {
+    "id": "cgX5RIkfk",
+    "date": "2025-12-08",
+    "amount": 11673,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "payment processed at Zieme Inc for SYP 981.98, using card ending ****4799. Account: ***0108."
+  },
+  {
+    "id": "phQEVntM3",
+    "date": "2025-12-08",
+    "amount": 406,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Payment of PLN 735.76 for deposit at Boyle Inc, processed with card ending ****2607 linked to account ***3727."
+  },
+  {
+    "id": "1aYzHg7SY",
+    "date": "2025-12-08",
+    "amount": 5758,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A withdrawal for SRD 185.71 was made at Gerlach Inc via card ending ****4920 on account ***1327."
+  },
+  {
+    "id": "yi3pjBD9I",
+    "date": "2025-12-08",
+    "amount": 753,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "You made a payment of TZS 478.49 at Trantow Group using card ending in ****3170 from account ***4621."
+  },
+  {
+    "id": "Na0eyoL6X",
+    "date": "2025-12-08",
+    "amount": 779,
+    "category": "Transport",
+    "type": "expense",
+    "description": "A deposit of MGA 312.36 occurred at Olson - Feeney using a card ending in ****9080 for account ***0820."
+  },
+  {
+    "id": "AoW9tBQi8",
+    "date": "2025-12-07",
+    "amount": 5865,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Payment of BTN 434.38 for withdrawal at Thompson LLC, processed with card ending ****5877 linked to account ***1841."
+  },
+  {
+    "id": "VSsIIc6Zx",
+    "date": "2025-12-07",
+    "amount": 7203,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Transaction alert: payment at O'Keefe-Gusikowski LLC using card ending ****5529 for an amount of ILS 149.41 on account ***3087."
+  },
+  {
+    "id": "Wmdkv2LuI",
+    "date": "2025-12-07",
+    "amount": 1336,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "Payment of DOP 56.48 for deposit at Borer Group, processed with card ending ****4944 linked to account ***4518."
+  },
+  {
+    "id": "pEJFWvrZo",
+    "date": "2025-12-06",
+    "amount": 10071,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "withdrawal confirmed at Strosin, Ankunding and Zboncak for ERN 258.50, card ending in ****9580 associated with account ***4103."
+  },
+  {
+    "id": "U497sGyF4",
+    "date": "2025-12-05",
+    "amount": 89472,
+    "category": "Investments",
+    "type": "income",
+    "description": "invoice processed at Russel - Wisozk for MNT 512.78, using card ending ****9682. Account: ***3087."
+  },
+  {
+    "id": "VsX08ITGR",
+    "date": "2025-12-05",
+    "amount": 8385,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Transaction alert: invoice at Batz - Miller using card ending ****6529 for an amount of HKD 661.13 on account ***6843."
+  },
+  {
+    "id": "acVPL3AB8",
+    "date": "2025-12-02",
+    "amount": 9876,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Payment of DOP 167.19 for withdrawal at Marvin LLC, processed with card ending ****4899 linked to account ***6664."
+  },
+  {
+    "id": "PAKMwCoA1",
+    "date": "2025-12-01",
+    "amount": 5081,
+    "category": "Transport",
+    "type": "expense",
+    "description": "Transaction alert: payment at Jones, Veum and Marvin using card ending ****8513 for an amount of VUV 837.55 on account ***9749."
+  },
+  {
+    "id": "tkbztJcbF",
+    "date": "2025-11-30",
+    "amount": 3639,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment processed at Predovic, Wyman and Christiansen for LSL 161.39, using card ending ****8567. Account: ***3280."
+  },
+  {
+    "id": "Y7w7WDcJQ",
+    "date": "2025-11-29",
+    "amount": 9948,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "You made a withdrawal of BMD 606.23 at Kertzmann - Murazik using card ending in ****6064 from account ***3514."
+  },
+  {
+    "id": "xrbp7O4tr",
+    "date": "2025-11-29",
+    "amount": 2042,
+    "category": "Transport",
+    "type": "expense",
+    "description": "A deposit for BRL 81.19 was made at Toy, Bednar and Hirthe via card ending ****1651 on account ***2605."
+  },
+  {
+    "id": "CFdtXWJYP",
+    "date": "2025-11-29",
+    "amount": 5413,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Your invoice of QAR 149.89 at Halvorson, Koss and Cartwright was successful. Charged via card ****7750 to account ***6158."
+  },
+  {
+    "id": "moNCGspNu",
+    "date": "2025-11-29",
+    "amount": 61199,
+    "category": "Freelance",
+    "type": "income",
+    "description": "Payment of MGA 990.09 for deposit at Kulas and Sons, processed with card ending ****1838 linked to account ***9934."
+  },
+  {
+    "id": "bpBM3NrGN",
+    "date": "2025-11-27",
+    "amount": 9887,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "deposit processed at Walker Inc for MOP 795.17, using card ending ****1559. Account: ***3887."
+  },
+  {
+    "id": "kOKxdb5ZR",
+    "date": "2025-11-27",
+    "amount": 13031,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "deposit confirmed at Wilkinson - Stiedemann for SBD 756.03, card ending in ****5148 associated with account ***7796."
+  },
+  {
+    "id": "nmbNJkK9M",
+    "date": "2025-11-25",
+    "amount": 9923,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Transaction alert: deposit at Osinski Inc using card ending ****9512 for an amount of GIP 708.00 on account ***3562."
+  },
+  {
+    "id": "TQUkFvTcT",
+    "date": "2025-11-25",
+    "amount": 12118,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "payment transaction at Shields, Ferry and Rodriguez using card ending with ****1175 for NOK 610.75 in account ***8539."
+  },
+  {
+    "id": "YKWtKlXVB",
+    "date": "2025-11-24",
+    "amount": 8984,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "A deposit of HKD 623.67 occurred at Murray, Walker and Block using a card ending in ****3425 for account ***1728."
+  },
+  {
+    "id": "gvVV5HAIT",
+    "date": "2025-11-24",
+    "amount": 5598,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A invoice for HTG 575.95 was made at Bahringer - Okuneva via card ending ****9620 on account ***8451."
+  },
+  {
+    "id": "k4aMV8ppZ",
+    "date": "2025-11-24",
+    "amount": 2894,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "You made a payment of BND 640.94 at Hamill - Leffler using card ending in ****8859 from account ***3918."
+  },
+  {
+    "id": "Q8Q9DSy3Y",
+    "date": "2025-11-24",
+    "amount": 941,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "payment confirmed at Vandervort - Bernier for SCR 67.15, card ending in ****5107 associated with account ***6639."
+  },
+  {
+    "id": "GEPvauHPI",
+    "date": "2025-11-23",
+    "amount": 10872,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Payment of BWP 36.43 for invoice at Kohler, Abshire and Graham, processed with card ending ****1240 linked to account ***8319."
+  },
+  {
+    "id": "UeEjqeuJ1",
+    "date": "2025-11-23",
+    "amount": 2900,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Payment of SCR 922.42 for payment at Doyle Inc, processed with card ending ****8596 linked to account ***7740."
+  },
+  {
+    "id": "nmcKAkQAQ",
+    "date": "2025-11-22",
+    "amount": 61606,
+    "category": "Investments",
+    "type": "income",
+    "description": "A deposit of EGP 988.91 occurred at Gusikowski - Hamill using a card ending in ****6133 for account ***0229."
+  },
+  {
+    "id": "lu0LMzOmk",
+    "date": "2025-11-22",
+    "amount": 8036,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A deposit for FJD 100.49 was made at Christiansen, Lebsack and Ebert via card ending ****5254 on account ***7530."
+  },
+  {
+    "id": "g9ZzLfhkV",
+    "date": "2025-11-22",
+    "amount": 12136,
+    "category": "Transport",
+    "type": "expense",
+    "description": "Your invoice of XAF 332.80 at Braun, Barrows and McGlynn was successful. Charged via card ****8730 to account ***9729."
+  },
+  {
+    "id": "uF6s2XrEc",
+    "date": "2025-11-22",
+    "amount": 7726,
+    "category": "Rent",
+    "type": "expense",
+    "description": "payment of SEK 47.26 at Langosh Inc charged to account ending in 6024 using card ending in ****9753."
+  },
+  {
+    "id": "hB5s5p0Hd",
+    "date": "2025-11-19",
+    "amount": 96299,
+    "category": "Freelance",
+    "type": "income",
+    "description": "Payment of BOB 51.56 for deposit at Berge - Denesik, processed with card ending ****7522 linked to account ***0908."
+  },
+  {
+    "id": "kIn8QYaKF",
+    "date": "2025-11-19",
+    "amount": 10798,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Payment of PKR 391.95 for invoice at Green - Pagac, processed with card ending ****6424 linked to account ***4456."
+  },
+  {
+    "id": "gBa4QmGSL",
+    "date": "2025-11-18",
+    "amount": 82588,
+    "category": "Freelance",
+    "type": "income",
+    "description": "A deposit for KES 370.15 was made at Skiles, Hudson and Feeney via card ending ****3048 on account ***5773."
+  },
+  {
+    "id": "EKLx5G0AE",
+    "date": "2025-11-18",
+    "amount": 3084,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Payment of SHP 907.73 for withdrawal at Pfeffer LLC, processed with card ending ****5249 linked to account ***2133."
+  },
+  {
+    "id": "DfPAMjEMR",
+    "date": "2025-11-17",
+    "amount": 9487,
+    "category": "Transport",
+    "type": "expense",
+    "description": "withdrawal processed at Veum Group for NOK 436.29, using card ending ****1423. Account: ***5995."
+  },
+  {
+    "id": "IVxKzFVXq",
+    "date": "2025-11-17",
+    "amount": 3583,
+    "category": "Rent",
+    "type": "expense",
+    "description": "withdrawal transaction at Gerlach - Lynch using card ending with ****4901 for CLP 612.74 in account ***9137."
+  },
+  {
+    "id": "frssWC6O0",
+    "date": "2025-11-17",
+    "amount": 3393,
+    "category": "Transport",
+    "type": "expense",
+    "description": "You made a deposit of SYP 404.21 at Lynch, Hammes and Hessel using card ending in ****6873 from account ***5055."
+  },
+  {
+    "id": "eIaSr5NIn",
+    "date": "2025-11-17",
+    "amount": 2260,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "withdrawal transaction at Connelly, Schmidt and Glover using card ending with ****3423 for CNY 898.20 in account ***5284."
+  },
+  {
+    "id": "4ubvq4LGT",
+    "date": "2025-11-16",
+    "amount": 10449,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "payment at Wisoky Group with a card ending in ****6400 for JPY 389.57 from account ***6262."
+  },
+  {
+    "id": "GX1suLDeS",
+    "date": "2025-11-16",
+    "amount": 2433,
+    "category": "Transport",
+    "type": "expense",
+    "description": "A invoice for DJF 827.70 was made at Grimes, Schroeder and Halvorson via card ending ****1674 on account ***3185."
+  },
+  {
+    "id": "t9bXHZUoQ",
+    "date": "2025-11-16",
+    "amount": 8338,
+    "category": "Rent",
+    "type": "expense",
+    "description": "payment processed at Waelchi Inc for LRD 652.19, using card ending ****9299. Account: ***0981."
+  },
+  {
+    "id": "LlFuo72Fr",
+    "date": "2025-11-15",
+    "amount": 1896,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A deposit for QAR 752.30 was made at Kunde - O'Conner via card ending ****2238 on account ***7175."
+  },
+  {
+    "id": "nMmytD3la",
+    "date": "2025-11-15",
+    "amount": 13577,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "Your payment of LAK 988.81 at Tillman, Fisher and Williamson was successful. Charged via card ****9266 to account ***4777."
+  },
+  {
+    "id": "NacYbOAHM",
+    "date": "2025-11-15",
+    "amount": 10860,
+    "category": "Transport",
+    "type": "expense",
+    "description": "A payment of CRC 86.05 occurred at Abernathy-Runolfsdottir LLC using a card ending in ****3294 for account ***6658."
+  },
+  {
+    "id": "MUPFs53pg",
+    "date": "2025-11-14",
+    "amount": 9292,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A deposit of EGP 156.94 occurred at Beahan - Tremblay using a card ending in ****6903 for account ***8003."
+  },
+  {
+    "id": "XL3ZqsaWC",
+    "date": "2025-11-14",
+    "amount": 10671,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Your deposit of YER 734.15 at Robel, Koelpin-Kerluke and D'Amore was successful. Charged via card ****1585 to account ***3379."
+  },
+  {
+    "id": "gRztE2rQI",
+    "date": "2025-11-12",
+    "amount": 11739,
+    "category": "Transport",
+    "type": "expense",
+    "description": "A invoice for BTN 664.41 was made at Hessel Inc via card ending ****0992 on account ***7042."
+  },
+  {
+    "id": "Neg8BtYzr",
+    "date": "2025-11-11",
+    "amount": 5186,
+    "category": "Rent",
+    "type": "expense",
+    "description": "You made a withdrawal of UGX 216.10 at Marvin, Dibbert and Becker using card ending in ****2014 from account ***4256."
+  },
+  {
+    "id": "EXk6okdL1",
+    "date": "2025-11-10",
+    "amount": 8559,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "invoice transaction at White, Hilpert and Mayer using card ending with ****8332 for DOP 183.78 in account ***2064."
+  },
+  {
+    "id": "I9gisxys2",
+    "date": "2025-11-10",
+    "amount": 9552,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A invoice of AMD 995.97 occurred at Kautzer, Reinger and Lowe using a card ending in ****4839 for account ***0103."
+  },
+  {
+    "id": "EalKNR2kz",
+    "date": "2025-11-09",
+    "amount": 54278,
+    "category": "Salary",
+    "type": "income",
+    "description": "invoice confirmed at Klocko and Sons for STN 245.52, card ending in ****4169 associated with account ***7064."
+  },
+  {
+    "id": "GphLkOYkn",
+    "date": "2025-11-09",
+    "amount": 6076,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Transaction alert: withdrawal at Sporer - Runolfsdottir using card ending ****1495 for an amount of BND 564.54 on account ***9894."
+  },
+  {
+    "id": "neXnap0PI",
+    "date": "2025-11-08",
+    "amount": 1320,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "payment transaction at Schultz, Koss and Lindgren using card ending with ****1849 for TWD 750.44 in account ***9493."
+  },
+  {
+    "id": "aD9iRWIzD",
+    "date": "2025-11-08",
+    "amount": 14409,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "payment transaction at Boyle Group using card ending with ****3576 for HKD 97.63 in account ***3263."
+  },
+  {
+    "id": "7pQfwxZJ6",
+    "date": "2025-11-08",
+    "amount": 8455,
+    "category": "Rent",
+    "type": "expense",
+    "description": "A withdrawal of GHS 851.68 occurred at Bogisich, Boehm and Waters using a card ending in ****0029 for account ***3762."
+  },
+  {
+    "id": "UxTDYkuy2",
+    "date": "2025-11-06",
+    "amount": 5759,
+    "category": "Rent",
+    "type": "expense",
+    "description": "deposit of TMT 164.55 at Heathcote, Gutmann and Howell charged to account ending in 2433 using card ending in ****5019."
+  },
+  {
+    "id": "dsSrG8Pbs",
+    "date": "2025-11-06",
+    "amount": 2609,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Transaction alert: invoice at Gleichner - Keebler using card ending ****9516 for an amount of ZWL 606.28 on account ***9490."
+  },
+  {
+    "id": "Urrfoztdz",
+    "date": "2025-11-06",
+    "amount": 10002,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Payment of FJD 199.27 for withdrawal at Reinger, Hegmann and Carter, processed with card ending ****0773 linked to account ***0531."
+  },
+  {
+    "id": "NGdtdETUt",
+    "date": "2025-11-06",
+    "amount": 3772,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A withdrawal for MUR 129.07 was made at Grady LLC via card ending ****3323 on account ***6130."
+  },
+  {
+    "id": "OdQq9GHAM",
+    "date": "2025-11-06",
+    "amount": 1800,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Transaction alert: withdrawal at Collier, Christiansen and Hackett using card ending ****5745 for an amount of MWK 585.69 on account ***4650."
+  },
+  {
+    "id": "qLEfclw5P",
+    "date": "2025-11-06",
+    "amount": 14548,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "Transaction alert: withdrawal at Yundt Inc using card ending ****3552 for an amount of RWF 831.06 on account ***3475."
+  },
+  {
+    "id": "6I7cHIAX9",
+    "date": "2025-11-05",
+    "amount": 11623,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "payment at Schneider, Witting and Torphy with a card ending in ****8765 for TWD 486.06 from account ***7250."
+  },
+  {
+    "id": "Ya0SIm2XN",
+    "date": "2025-11-05",
+    "amount": 14821,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "withdrawal at Veum Group with a card ending in ****5209 for KRW 233.30 from account ***9473."
+  },
+  {
+    "id": "wsDTzxtOM",
+    "date": "2025-11-04",
+    "amount": 7467,
+    "category": "Transport",
+    "type": "expense",
+    "description": "Payment of MKD 91.38 for deposit at Jast LLC, processed with card ending ****7199 linked to account ***1643."
+  },
+  {
+    "id": "xb2AQa9Hc",
+    "date": "2025-11-04",
+    "amount": 9126,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "withdrawal transaction at Tromp, Haag and Considine using card ending with ****5463 for CAD 246.48 in account ***7780."
+  },
+  {
+    "id": "H5UF4dNCn",
+    "date": "2025-11-03",
+    "amount": 2601,
+    "category": "Transport",
+    "type": "expense",
+    "description": "You made a invoice of SLE 298.55 at O'Reilly - Hand using card ending in ****3101 from account ***7144."
+  },
+  {
+    "id": "rJekGVVSX",
+    "date": "2025-11-03",
+    "amount": 9786,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "Your deposit of UGX 49.25 at Bogan - Yost was successful. Charged via card ****7375 to account ***3450."
+  },
+  {
+    "id": "LaCulBpWY",
+    "date": "2025-11-02",
+    "amount": 78151,
+    "category": "Freelance",
+    "type": "income",
+    "description": "Transaction alert: payment at Kris - Greenfelder using card ending ****2559 for an amount of BTN 30.25 on account ***2401."
+  },
+  {
+    "id": "y2KYygpP4",
+    "date": "2025-11-01",
+    "amount": 109430,
+    "category": "Salary",
+    "type": "income",
+    "description": "invoice processed at Swaniawski - Wunsch-Sporer for KWD 455.97, using card ending ****4874. Account: ***0447."
+  },
+  {
+    "id": "IC14JMrrk",
+    "date": "2025-10-31",
+    "amount": 6009,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A payment of KES 651.10 occurred at Hickle - Brekke using a card ending in ****0815 for account ***3156."
+  },
+  {
+    "id": "a8WqebfkY",
+    "date": "2025-10-30",
+    "amount": 103221,
+    "category": "Salary",
+    "type": "income",
+    "description": "A payment for MNT 761.69 was made at Witting, Ebert and Schultz via card ending ****7076 on account ***0258."
+  },
+  {
+    "id": "oRvmPUBkJ",
+    "date": "2025-10-28",
+    "amount": 4829,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "You made a payment of PEN 786.18 at Littel Group using card ending in ****9338 from account ***6084."
+  },
+  {
+    "id": "VqJjIZx0L",
+    "date": "2025-10-28",
+    "amount": 5441,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "A deposit for BWP 147.53 was made at Ernser and Sons via card ending ****6103 on account ***7703."
+  },
+  {
+    "id": "CHoTuOqgg",
+    "date": "2025-10-28",
+    "amount": 6569,
+    "category": "Transport",
+    "type": "expense",
+    "description": "You made a invoice of XOF 361.54 at Lueilwitz LLC using card ending in ****0203 from account ***7534."
+  },
+  {
+    "id": "dmrJCt4Uo",
+    "date": "2025-10-27",
+    "amount": 12525,
+    "category": "Rent",
+    "type": "expense",
+    "description": "withdrawal transaction at Schamberger Inc using card ending with ****7835 for ARS 821.13 in account ***9535."
+  },
+  {
+    "id": "X2YiHrwk1",
+    "date": "2025-10-27",
+    "amount": 108071,
+    "category": "Freelance",
+    "type": "income",
+    "description": "A withdrawal for HUF 281.44 was made at Schuster, VonRueden and Yost via card ending ****8671 on account ***4781."
+  },
+  {
+    "id": "vBUW6R2cR",
+    "date": "2025-10-25",
+    "amount": 11873,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "invoice confirmed at Paucek - Keebler for BZD 105.05, card ending in ****8365 associated with account ***4724."
+  },
+  {
+    "id": "YHUthVXNX",
+    "date": "2025-10-24",
+    "amount": 2184,
+    "category": "Rent",
+    "type": "expense",
+    "description": "You made a deposit of UAH 285.80 at Willms, Nolan and Windler using card ending in ****3885 from account ***8331."
+  },
+  {
+    "id": "VpVESwH9P",
+    "date": "2025-10-24",
+    "amount": 6104,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "A deposit of SCR 222.24 occurred at Sipes, Gleichner and Grimes using a card ending in ****3923 for account ***7043."
+  },
+  {
+    "id": "TVCgKO6ob",
+    "date": "2025-10-23",
+    "amount": 8253,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Transaction alert: payment at Welch and Sons using card ending ****6315 for an amount of BIF 980.29 on account ***2807."
+  },
+  {
+    "id": "HMjbmsYeq",
+    "date": "2025-10-22",
+    "amount": 5888,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "Transaction alert: withdrawal at Murphy LLC using card ending ****0690 for an amount of CZK 224.91 on account ***2069."
+  },
+  {
+    "id": "DeoB7WE4z",
+    "date": "2025-10-21",
+    "amount": 7837,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "Your withdrawal of LSL 585.62 at Sporer - Okuneva was successful. Charged via card ****7060 to account ***3112."
+  },
+  {
+    "id": "QPbezTm3S",
+    "date": "2025-10-21",
+    "amount": 9418,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Transaction alert: invoice at Jerde and Sons using card ending ****1407 for an amount of CUP 416.69 on account ***1519."
+  },
+  {
+    "id": "R9eqrvNBf",
+    "date": "2025-10-21",
+    "amount": 6469,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "A invoice for MZN 627.18 was made at Hilll - Ondricka via card ending ****1789 on account ***2061."
+  },
+  {
+    "id": "QuG3CPXXd",
+    "date": "2025-10-21",
+    "amount": 76751,
+    "category": "Salary",
+    "type": "income",
+    "description": "Your invoice of NGN 457.34 at Legros, Weimann and Brekke was successful. Charged via card ****8599 to account ***5942."
+  },
+  {
+    "id": "ryq9afYY9",
+    "date": "2025-10-20",
+    "amount": 12527,
+    "category": "Transport",
+    "type": "expense",
+    "description": "A withdrawal for AZN 446.34 was made at Jacobi and Sons via card ending ****3498 on account ***7898."
+  },
+  {
+    "id": "9Uup19t6E",
+    "date": "2025-10-20",
+    "amount": 1658,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "invoice processed at Kunde - Rosenbaum for BTN 47.75, using card ending ****9830. Account: ***4029."
+  },
+  {
+    "id": "fzWFy56mL",
+    "date": "2025-10-19",
+    "amount": 12991,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "invoice processed at Gleichner, Wuckert and Bode for BBD 129.38, using card ending ****4494. Account: ***8012."
+  },
+  {
+    "id": "7UddoEe2g",
+    "date": "2025-10-18",
+    "amount": 14172,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "invoice at Morissette - Jerde with a card ending in ****8547 for NIO 182.00 from account ***6195."
+  },
+  {
+    "id": "bvOUh71W0",
+    "date": "2025-10-17",
+    "amount": 41688,
+    "category": "Salary",
+    "type": "income",
+    "description": "Your withdrawal of MOP 456.94 at Hills, Hirthe and Braun-Durgan was successful. Charged via card ****7721 to account ***3280."
+  },
+  {
+    "id": "8s8Q31iim",
+    "date": "2025-10-17",
+    "amount": 7315,
+    "category": "Transport",
+    "type": "expense",
+    "description": "A invoice of DJF 135.74 occurred at Gerlach - Gottlieb using a card ending in ****4462 for account ***3894."
+  },
+  {
+    "id": "IIingipTo",
+    "date": "2025-10-16",
+    "amount": 6537,
+    "category": "Transport",
+    "type": "expense",
+    "description": "invoice processed at Lynch Group for BZD 650.16, using card ending ****6241. Account: ***4562."
+  },
+  {
+    "id": "08fMEuq3E",
+    "date": "2025-10-15",
+    "amount": 12505,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A deposit for SLE 839.18 was made at Stracke - Boyer via card ending ****1358 on account ***2427."
+  },
+  {
+    "id": "cT60YTU1r",
+    "date": "2025-10-14",
+    "amount": 70210,
+    "category": "Freelance",
+    "type": "income",
+    "description": "A deposit of GYD 147.14 occurred at Goldner Inc using a card ending in ****3103 for account ***1463."
+  },
+  {
+    "id": "WbpclMwpf",
+    "date": "2025-10-14",
+    "amount": 9799,
+    "category": "Rent",
+    "type": "expense",
+    "description": "Transaction alert: deposit at Gutmann, Cummerata and Luettgen using card ending ****1689 for an amount of BZD 971.60 on account ***8719."
+  },
+  {
+    "id": "ZySpk01Tf",
+    "date": "2025-10-13",
+    "amount": 11855,
+    "category": "Rent",
+    "type": "expense",
+    "description": "payment at Fahey - Ratke with a card ending in ****9228 for NZD 525.23 from account ***6538."
+  },
+  {
+    "id": "8CAkuRGgL",
+    "date": "2025-10-13",
+    "amount": 6719,
+    "category": "Transport",
+    "type": "expense",
+    "description": "Payment of INR 671.84 for withdrawal at Kreiger - Wilkinson, processed with card ending ****1708 linked to account ***2075."
+  },
+  {
+    "id": "YZY62vzX7",
+    "date": "2025-10-13",
+    "amount": 6105,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "invoice confirmed at Denesik LLC for COP 178.85, card ending in ****3751 associated with account ***0553."
+  },
+  {
+    "id": "y2JSGHZ1n",
+    "date": "2025-10-13",
+    "amount": 5707,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "deposit confirmed at Hauck - Heaney-Kirlin for CNY 419.50, card ending in ****5824 associated with account ***1444."
+  },
+  {
+    "id": "HxdhhElIF",
+    "date": "2025-10-12",
+    "amount": 7127,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "withdrawal confirmed at O'Kon - Schuster for BYN 692.17, card ending in ****1800 associated with account ***5366."
+  },
+  {
+    "id": "8ABucJNDe",
+    "date": "2025-10-11",
+    "amount": 44313,
+    "category": "Investments",
+    "type": "income",
+    "description": "You made a payment of RUB 45.81 at Miller, Runte and Kling using card ending in ****2399 from account ***2849."
+  },
+  {
+    "id": "EUHKFboPi",
+    "date": "2025-10-10",
+    "amount": 12180,
+    "category": "Shopping",
+    "type": "expense",
+    "description": "Payment of BIF 877.34 for withdrawal at Parker - Feest, processed with card ending ****7654 linked to account ***9587."
+  },
+  {
+    "id": "l3zmfX5EI",
+    "date": "2025-10-07",
+    "amount": 3189,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "A invoice of KES 855.73 occurred at Cruickshank - Stanton using a card ending in ****4414 for account ***9033."
+  },
+  {
+    "id": "uITOCrpAw",
+    "date": "2025-10-07",
+    "amount": 3985,
+    "category": "Entertainment",
+    "type": "expense",
+    "description": "invoice processed at Ferry Inc for PGK 859.20, using card ending ****0792. Account: ***1484."
+  },
+  {
+    "id": "3MFP7v9H7",
+    "date": "2025-10-07",
+    "amount": 2466,
+    "category": "Transport",
+    "type": "expense",
+    "description": "You made a withdrawal of KMF 693.93 at Waelchi, Wintheiser-Hayes and Kreiger using card ending in ****7275 from account ***6104."
+  },
+  {
+    "id": "B6hEB6zo4",
+    "date": "2025-10-07",
+    "amount": 7813,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "Your deposit of GMD 101.69 at Cole - Cummerata was successful. Charged via card ****3421 to account ***7807."
+  },
+  {
+    "id": "boSyBhFIn",
+    "date": "2025-10-07",
+    "amount": 7864,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "Your deposit of DKK 719.91 at Davis, Schultz and Lesch was successful. Charged via card ****5865 to account ***0423."
+  },
+  {
+    "id": "jUhD0uGZ3",
+    "date": "2025-10-06",
+    "amount": 103458,
+    "category": "Freelance",
+    "type": "income",
+    "description": "Transaction alert: payment at Johns - Jones using card ending ****6079 for an amount of ILS 890.17 on account ***5421."
+  },
+  {
+    "id": "otuPGZ5Rm",
+    "date": "2025-10-06",
+    "amount": 7813,
+    "category": "Food & Dining",
+    "type": "expense",
+    "description": "Transaction alert: invoice at Keebler - Stehr using card ending ****1320 for an amount of EGP 214.96 on account ***2451."
+  },
+  {
+    "id": "5I1Gc64qb",
+    "date": "2025-10-05",
+    "amount": 7414,
+    "category": "Utilities",
+    "type": "expense",
+    "description": "You made a deposit of INR 768.14 at Kuphal, Volkman and Zboncak using card ending in ****8655 from account ***0164."
+  }
+]
